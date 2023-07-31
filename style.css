@@ -3,6 +3,8 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
+
+
 .header{
     min-height: 100vh;
     width: 100%;
@@ -417,9 +419,9 @@ h3{
 /*---blog-content*/
 
 .blog-content{
-    width: 80%;
-    margin: auto;
-    padding: 60px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
 }
 .blog-left{
     flex-basis: 65%;
