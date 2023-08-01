@@ -90,7 +90,7 @@ nav img{
     transition: 1s;
 }
 
-nav .fa{
+nav .bi{
     display: none;
 
 }
@@ -305,7 +305,7 @@ h3{
     text-align: left;
 }
 
-.testimonial-col .fa{
+.testimonial-col .di{
     color: #f44336;
 }
 
@@ -359,7 +359,7 @@ h3{
    font-weight: 600;  
 }
 
-.icons .fa{
+.icons .di{
     color: #f44336;
     margin: 0 13px;
     cursor: pointer;
@@ -501,7 +501,7 @@ h3{
     align-items: center;
     margin-bottom: 40px;
 }
-.contact-col div .fa{
+.contact-col div .di{
     font-size: 28px;
     margin: 10px;
     margin-right: 30px;
